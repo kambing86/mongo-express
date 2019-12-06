@@ -1,4 +1,4 @@
-build-assets.json
+# build-assets.json
 
 # OS
 # ===========
@@ -46,7 +46,7 @@ _site/
 *.swp
 launchConfigurations/
 logs/
-build/
+# build/
 lib-cov
 pids
 results
